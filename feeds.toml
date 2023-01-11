@@ -1,7 +1,0 @@
-[its-nice-that]
-title = "It's Nice That"
-url = "https://www.itsnicethat.com/articles"
-entrySelector = ".listing-item"
-titleSelector = ".listing-item-title"
-linkSelector = "a"
-contentSelector = "img"
