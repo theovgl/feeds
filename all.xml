@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T05:35:03.730Z</updated>
+    <updated>2023-01-18T17:34:47.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Artist Yin Ming uses ping pong as a metaphor for the act of code switching (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/yin-ming-project-art-180123</id>
+        <link href="https://www.itsnicethat.com/articles/yin-ming-project-art-180123"/>
+        <updated>2023-01-18T17:34:46.275Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/yin-ming-project-art-180123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:74.79191438763377%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#2a4b24;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/yin-ming-project-art-180123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Artist Yin Ming uses ping pong as a metaphor for the act of code switching</span></h3><div class="h6 sans mt3 dove-grey first-cap">9 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irina Rubina animates freewheeling bebop rhythms for Miles Davis’ cover of What’s Love Got To Do With It (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/irina-rubina-whats-love-got-to-do-with-it-project-animation-180123</id>
+        <link href="https://www.itsnicethat.com/articles/irina-rubina-whats-love-got-to-do-with-it-project-animation-180123"/>
+        <updated>2023-01-18T17:34:46.296Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/irina-rubina-whats-love-got-to-do-with-it-project-animation-180123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:56.25%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#24262f;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/irina-rubina-whats-love-got-to-do-with-it-project-animation-180123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Irina Rubina animates freewheeling bebop rhythms for Miles Davis’ cover of What’s Love Got To Do With It</span></h3><div class="h6 sans mt3 dove-grey first-cap">9 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wilfrid Wood, Suzy Chan and Crack Magazine: Tickets are now available for February’s Nicer Tuesdays! (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/nicer-tuesdays-february-launch-170123</id>
         <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-february-launch-170123"/>
         <updated>2023-01-17T17:33:18.920Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-february-launch-170123"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/List___Launch_NT22_Month_2_lG1B4O2.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-february-launch-170123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Wilfrid Wood, Suzy Chan and Crack Magazine: Tickets are now available for February’s Nicer Tuesdays!</span></h3><div class="h6 sans mt3 dove-grey first-cap">18 hours ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-february-launch-170123"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/List___Launch_NT22_Month_2_lG1B4O2.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-february-launch-170123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Wilfrid Wood, Suzy Chan and Crack Magazine: Tickets are now available for February’s Nicer Tuesdays!</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From skateboarding to swimming, Caroline Péron illustrates the beauty of sport (It's Nice That)]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/kin-coedel-project-dyal-thak-photography-040123"/>
         <updated>2023-01-11T23:24:53.124Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/kin-coedel-project-dyal-thak-photography-040123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:80%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#b1a4a5;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/kin-coedel-project-dyal-thak-photography-040123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Kin Coedel photographs tranquil moments of everyday life in Tibet</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Y2K aesthetics Mojo Supermarket gives Girls Who Code a perfectly pixelated brand refresh (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/mojo-supermarket-girls-who-code-graphic-design-030123</id>
-        <link href="https://www.itsnicethat.com/articles/mojo-supermarket-girls-who-code-graphic-design-030123"/>
-        <updated>2023-01-11T23:24:53.130Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/mojo-supermarket-girls-who-code-graphic-design-030123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:56.24444444444444%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#d86ab9;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/mojo-supermarket-girls-who-code-graphic-design-030123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Using Y2K aesthetics Mojo Supermarket gives Girls Who Code a perfectly pixelated brand refresh</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bad Thing is a comic about a dog who feels morally conflicted over killing birds (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/maisie-cowell-the-bad-thing-illustration-030123</id>
-        <link href="https://www.itsnicethat.com/articles/maisie-cowell-the-bad-thing-illustration-030123"/>
-        <updated>2023-01-11T23:24:53.132Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/maisie-cowell-the-bad-thing-illustration-030123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:79.97111218103034%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#3d56b5;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/maisie-cowell-the-bad-thing-illustration-030123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">The Bad Thing is a comic about a dog who feels morally conflicted over killing birds</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
     </entry>
 </feed>
