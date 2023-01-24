@@ -2,22 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-01-24T05:33:07.941Z</updated>
+    <updated>2023-01-24T17:33:21.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Aysha Tengiz on how illustration can be a “vulnerable” medium]]></title>
+        <id>https://www.itsnicethat.com/articles/nicer-tuesdays-december-2022-aysha-tengiz-240123</id>
+        <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-december-2022-aysha-tengiz-240123"/>
+        <updated>2023-01-24T17:33:20.688Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From empathy to self awareness, what makes a great design leader?]]></title>
+        <id>https://www.itsnicethat.com/articles/future-london-academy-executive-programme-for-design-leaders-sponsored-content-240123</id>
+        <link href="https://www.itsnicethat.com/articles/future-london-academy-executive-programme-for-design-leaders-sponsored-content-240123"/>
+        <updated>2023-01-24T17:33:20.689Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adèle Aproh’s illustrations seek to both “fascinate and disturb”]]></title>
+        <id>https://www.itsnicethat.com/articles/adele-aproh-discover-illustration-240123</id>
+        <link href="https://www.itsnicethat.com/articles/adele-aproh-discover-illustration-240123"/>
+        <updated>2023-01-24T17:33:20.729Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating the UK’s best-known Christmas ad, with adam&eveDDB]]></title>
         <id>https://www.itsnicethat.com/articles/nicer-tuesdays-december-2022-adameveddb-230123</id>
         <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-december-2022-adameveddb-230123"/>
         <updated>2023-01-23T17:33:46.651Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-december-2022-adameveddb-230123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:65.4696132596685%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#192431;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-december-2022-adameveddb-230123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Creating the UK’s best-known Christmas ad, with adam&amp;eveDDB</span></h3><div class="h6 sans mt3 dove-grey first-cap">17 hours ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Julie Legrand’s tactile work explores the never-ending possibilities of print]]></title>
         <id>https://www.itsnicethat.com/articles/julie-legrand-discover-illustration-graphic-design-230123</id>
         <link href="https://www.itsnicethat.com/articles/julie-legrand-discover-illustration-graphic-design-230123"/>
         <updated>2023-01-23T17:33:46.658Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/julie-legrand-discover-illustration-graphic-design-230123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f1f1ef;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/julie-legrand-discover-illustration-graphic-design-230123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Julie Legrand’s tactile work explores the never-ending possibilities of print</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“No thought, just draw”: Trevor Shin on filling sketchbooks with spontaneous observations]]></title>
@@ -123,26 +139,5 @@
         <link href="https://www.itsnicethat.com/articles/tae-lee-discover-art-110123"/>
         <updated>2023-01-11T23:24:53.107Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/tae-lee-discover-art-110123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:110.99644128113879%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#0f1f19;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/tae-lee-discover-art-110123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Tae Lee sees their peaceful artworks as an offering to those living through uncertain times</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cash & Carry is the one-woman studio channelling punk and railing against boredom]]></title>
-        <id>https://www.itsnicethat.com/articles/cash-and-carry-disover-graphic-design-110123</id>
-        <link href="https://www.itsnicethat.com/articles/cash-and-carry-disover-graphic-design-110123"/>
-        <updated>2023-01-11T23:24:53.108Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/cash-and-carry-disover-graphic-design-110123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:71.45682267633488%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f91388;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/cash-and-carry-disover-graphic-design-110123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Cash &amp; Carry is the one-woman studio channelling punk and railing against boredom</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With cuteness and crayons, Shiori Tamura makes everyday moments a little more special]]></title>
-        <id>https://www.itsnicethat.com/articles/shiori-tamura-discover-illustration-100123</id>
-        <link href="https://www.itsnicethat.com/articles/shiori-tamura-discover-illustration-100123"/>
-        <updated>2023-01-11T23:24:53.108Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/shiori-tamura-discover-illustration-100123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fa4d39;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/shiori-tamura-discover-illustration-100123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">With cuteness and crayons, Shiori Tamura makes everyday moments a little more special</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A whirlwind tour of global creativity, Crack Magazine returns with its bi-annual publication]]></title>
-        <id>https://www.itsnicethat.com/articles/crack-magazine-the-collections-volume-iv-project-publication-100123</id>
-        <link href="https://www.itsnicethat.com/articles/crack-magazine-the-collections-volume-iv-project-publication-100123"/>
-        <updated>2023-01-11T23:24:53.109Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/crack-magazine-the-collections-volume-iv-project-publication-100123"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:69.00931414055886%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#1d181b;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/crack-magazine-the-collections-volume-iv-project-publication-100123"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">A whirlwind tour of global creativity, Crack Magazine returns with its bi-annual publication</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
     </entry>
 </feed>
