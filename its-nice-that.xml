@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-02-14T05:34:59.284Z</updated>
+    <updated>2023-02-14T17:36:16.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Illustrator Deej Amago re-works vulnerability into traditional erotic art]]></title>
+        <id>https://www.itsnicethat.com/articles/deej-amago-project-illustration-140223</id>
+        <link href="https://www.itsnicethat.com/articles/deej-amago-project-illustration-140223"/>
+        <updated>2023-02-14T17:36:15.924Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rosetta is a foundry that prioritises thorough research, design exploration and multilingual typefaces]]></title>
+        <id>https://www.itsnicethat.com/articles/rosetta-graphic-design-sponsored-content-140223</id>
+        <link href="https://www.itsnicethat.com/articles/rosetta-graphic-design-sponsored-content-140223"/>
+        <updated>2023-02-14T17:36:15.930Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One School free portfolio programme for Black creatives launches in the UK]]></title>
         <id>https://www.itsnicethat.com/articles/one-school-sponsored-content-advertising-130223</id>
         <link href="https://www.itsnicethat.com/articles/one-school-sponsored-content-advertising-130223"/>
         <updated>2023-02-13T17:34:03.385Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/one-school-sponsored-content-advertising-130223"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:71.42857142857143%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#030303;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/one-school-sponsored-content-advertising-130223"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">One School free portfolio programme for Black creatives launches in the UK</span></h3><div class="h6 sans mt3 dove-grey first-cap">21 hours ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kenichi Kuromaru on finding unique expression in optical illusions, simple shapes and mixing alphabets]]></title>
@@ -24,7 +35,6 @@
         <id>https://www.itsnicethat.com/articles/sukhy-hullait-all-the-rage-project-photography-130223</id>
         <link href="https://www.itsnicethat.com/articles/sukhy-hullait-all-the-rage-project-photography-130223"/>
         <updated>2023-02-13T17:34:03.393Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/sukhy-hullait-all-the-rage-project-photography-130223"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:125%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#998e8a;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/sukhy-hullait-all-the-rage-project-photography-130223"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">"I want the audience to really see them": Sukhy Hullait captures local community spirit in Peckham and East Dulwich</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zumrad Mirzalieva documents the decline of traditional Uzbek barbershops]]></title>
@@ -130,19 +140,5 @@
         <link href="https://www.itsnicethat.com/articles/boybrotherfriend-issue-five-project-publication-020223"/>
         <updated>2023-02-02T17:34:31.314Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/boybrotherfriend-issue-five-project-publication-020223"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:73%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#ab3118;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/boybrotherfriend-issue-five-project-publication-020223"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Boy.Brother.Friend's fifth issue delves into themes of ‘rituals’ and ‘ceremony’</span></h3><div class="h6 sans mt3 dove-grey first-cap">12 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahmad Hammoud’s vibrant and organic designs are achieved through “aimless sketching”]]></title>
-        <id>https://www.itsnicethat.com/articles/ahmad-hammoud-discover-graphic-design-010223</id>
-        <link href="https://www.itsnicethat.com/articles/ahmad-hammoud-discover-graphic-design-010223"/>
-        <updated>2023-02-02T05:33:32.757Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/ahmad-hammoud-discover-graphic-design-010223"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:141.9558359621451%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#2d2b26;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/ahmad-hammoud-discover-graphic-design-010223"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Ahmad Hammoud’s vibrant and organic designs are achieved through “aimless sketching”</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to be a Bloke: Austn Fischer’s photographic investigation into British masculine “performance”]]></title>
-        <id>https://www.itsnicethat.com/articles/austn-fischer-how-to-be-a-bloke-project-photography-010223</id>
-        <link href="https://www.itsnicethat.com/articles/austn-fischer-how-to-be-a-bloke-project-photography-010223"/>
-        <updated>2023-02-02T05:33:32.759Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/austn-fischer-how-to-be-a-bloke-project-photography-010223"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:129.42191544434857%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#9f9b98;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/austn-fischer-how-to-be-a-bloke-project-photography-010223"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">How to be a Bloke: Austn Fischer’s photographic investigation into British masculine “performance”</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
     </entry>
 </feed>
