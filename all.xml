@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-12T05:33:04.080Z</updated>
+    <updated>2023-04-12T17:33:03.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Rachel Fitzgerald makes an ode to childhood curiosity and innocence in her beautiful animations (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/rachel-fitzgerald-discover-animation-120423</id>
+        <link href="https://www.itsnicethat.com/articles/rachel-fitzgerald-discover-animation-120423"/>
+        <updated>2023-04-12T17:33:02.569Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/rachel-fitzgerald-itsnicethat.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Rachel Fitzgerald makes an ode to childhood curiosity and innocence in her beautiful animations</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset skies and luscious lawns: Artist Stacy Leigh paints herself a dream reality (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/stacy-leigh-escape-to-b-roll-project-art-120423</id>
+        <link href="https://www.itsnicethat.com/articles/stacy-leigh-escape-to-b-roll-project-art-120423"/>
+        <updated>2023-04-12T17:33:02.569Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/stacy-leigh-escape-to-b-roll-project-art-120423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:112.64080100125156%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#416264;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/stacy-leigh-escape-to-b-roll-project-art-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Sunset skies and luscious lawns: Artist Stacy Leigh paints herself a dream reality</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenging the female radical characters of Chinese with artist Zoe Cui (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423</id>
+        <link href="https://www.itsnicethat.com/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"/>
+        <updated>2023-04-12T17:33:02.573Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/zoe-cui-itsnicethat.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Challenging the female radical characters of Chinese with artist Zoe Cui</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raman Djafari creates a frenzied dystopia for Ashnikko’s latest music video (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/raman-djafari-ashnikko-worms-project-film-110423</id>
@@ -122,26 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/caroline-wong-cats-and-girls-project-art-290323"/>
         <updated>2023-03-29T18:05:10.962Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/caroline-wong-cats-and-girls-project-art-290323"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:72.82812274888344%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#e7ca61;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/caroline-wong-cats-and-girls-project-art-290323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Caroline Wong’s drawings of women eating like cats challenge expectations of “restraint and decorum”</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeremy Scott fashions a couture collection out of Hyundai’s automotive waste (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/hyundai-re-style-fashion-sponsored-content-280323</id>
-        <link href="https://www.itsnicethat.com/articles/hyundai-re-style-fashion-sponsored-content-280323"/>
-        <updated>2023-03-28T17:32:56.110Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/hyundai-re-style-fashion-sponsored-content-280323"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:151.97992191857224%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#4d4a49;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/hyundai-re-style-fashion-sponsored-content-280323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Jeremy Scott fashions a couture collection out of Hyundai’s automotive waste</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Plain Form, the foundry whose type families are far from plain (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/plain-form-discover-graphic-design-280323</id>
-        <link href="https://www.itsnicethat.com/articles/plain-form-discover-graphic-design-280323"/>
-        <updated>2023-03-28T17:32:56.113Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/plain-form-discover-graphic-design-280323"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:50%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#030303;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/plain-form-discover-graphic-design-280323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Meet Plain Form, the foundry whose type families are far from plain</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get in the mood for festival season with Rakhmat Jaka’s musical motion posters (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/rakhmat-jaka-project-synchronize-festival-graphic-design-280323</id>
-        <link href="https://www.itsnicethat.com/articles/rakhmat-jaka-project-synchronize-festival-graphic-design-280323"/>
-        <updated>2023-03-28T17:32:56.119Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/rakhmat-jaka-project-synchronize-festival-graphic-design-280323"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/rakhmat-jaka-project-synchronize-festival-graphic-design-280323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Get in the mood for festival season with Rakhmat Jaka’s musical motion posters</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
     </entry>
 </feed>
