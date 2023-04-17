@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-04-17T05:33:42.578Z</updated>
+    <updated>2023-04-17T17:33:22.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Illustrator Asha Wilson explores the infinite fun of hand-drawn type and character creation]]></title>
+        <id>https://www.itsnicethat.com/articles/asha-wilson-project-illustration-170423</id>
+        <link href="https://www.itsnicethat.com/articles/asha-wilson-project-illustration-170423"/>
+        <updated>2023-04-17T17:33:21.420Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/asha-wilson-project-illustration-170423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fbeee4;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/asha-wilson-project-illustration-170423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Illustrator Asha Wilson explores the infinite fun of hand-drawn type and character creation</span></h3><div class="h6 sans mt3 dove-grey first-cap">11 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artist David Bailey Ross enlightens us to the process behind his endless series of heads]]></title>
+        <id>https://www.itsnicethat.com/articles/david-bailey-ross-heads-project-art-170423</id>
+        <link href="https://www.itsnicethat.com/articles/david-bailey-ross-heads-project-art-170423"/>
+        <updated>2023-04-17T17:33:21.420Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/david-bailey-ross-heads-project-art-170423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:125%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f7f7f7;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/david-bailey-ross-heads-project-art-170423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Artist David Bailey Ross enlightens us to the process behind his endless series of heads</span></h3><div class="h6 sans mt3 dove-grey first-cap">11 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fetish, power and the lack thereof with filmmaker Bart Seng Wen Long]]></title>
         <id>https://www.itsnicethat.com/articles/bart-seng-wen-long-discover-photography-film-130423</id>
@@ -31,7 +45,7 @@
         <id>https://www.itsnicethat.com/articles/rachel-fitzgerald-discover-animation-120423</id>
         <link href="https://www.itsnicethat.com/articles/rachel-fitzgerald-discover-animation-120423"/>
         <updated>2023-04-12T17:33:02.569Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/rachel-fitzgerald-itsnicethat.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Rachel Fitzgerald makes an ode to childhood curiosity and innocence in her beautiful animations</span></h3><div class="h6 sans mt3 dove-grey first-cap">5 days ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/rachel-fitzgerald-discover-animation-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Rachel Fitzgerald makes an ode to childhood curiosity and innocence in her beautiful animations</span></h3><div class="h6 sans mt3 dove-grey first-cap">5 days ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sunset skies and luscious lawns: Artist Stacy Leigh paints herself a dream reality]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.itsnicethat.com/articles/farid-renais-ghimas-angan-angan-harsa-project-photography-030423"/>
         <updated>2023-04-03T17:33:11.514Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/farid-renais-ghimas-angan-angan-harsa-project-photography-030423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:141.41961231470924%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#a15320;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/farid-renais-ghimas-angan-angan-harsa-project-photography-030423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">An ode to family and community, Farid Renais Ghimas’ series depicts the act of return</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lakshan Dharmapriya documents off-season huskies to critique capitalism and champion rest]]></title>
-        <id>https://www.itsnicethat.com/articles/lakshan-dharmapriya-off-season-project-photography-300323</id>
-        <link href="https://www.itsnicethat.com/articles/lakshan-dharmapriya-off-season-project-photography-300323"/>
-        <updated>2023-03-30T17:33:21.045Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/lakshan-dharmapriya-off-season-project-photography-300323"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:115.38818076477403%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#232121;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/lakshan-dharmapriya-off-season-project-photography-300323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Lakshan Dharmapriya documents off-season huskies to critique capitalism and champion rest</span></h3><div class="h6 sans mt3 dove-grey first-cap">30 March 2023</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colin J. Radcliffe’s ceramic renditions of queer relationships are full of playful tenderness]]></title>
-        <id>https://www.itsnicethat.com/articles/colin-j-radcliffe-lovers-project-art-300323</id>
-        <link href="https://www.itsnicethat.com/articles/colin-j-radcliffe-lovers-project-art-300323"/>
-        <updated>2023-03-30T17:33:21.047Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/colin-j-radcliffe-lovers-project-art-300323"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f8f7f6;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/colin-j-radcliffe-lovers-project-art-300323"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Colin J. Radcliffe’s ceramic renditions of queer relationships are full of playful tenderness</span></h3><div class="h6 sans mt3 dove-grey first-cap">30 March 2023</div></a>]]></content>
     </entry>
 </feed>
