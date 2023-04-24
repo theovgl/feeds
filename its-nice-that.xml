@@ -2,22 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-04-24T05:33:09.132Z</updated>
+    <updated>2023-04-24T17:33:29.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Adobe collaborates with children to create climate superheroes with Photoshop this Earth Day]]></title>
+        <id>https://www.itsnicethat.com/articles/adobe-climate-superheroes-illustration-sponsored-content-240423</id>
+        <link href="https://www.itsnicethat.com/articles/adobe-climate-superheroes-illustration-sponsored-content-240423"/>
+        <updated>2023-04-24T17:33:28.311Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarah Piantadosi celebrates diverse bodies through minimal yet powerful portraits]]></title>
+        <id>https://www.itsnicethat.com/articles/sarah-piantadosi-bone-project-photography-240423</id>
+        <link href="https://www.itsnicethat.com/articles/sarah-piantadosi-bone-project-photography-240423"/>
+        <updated>2023-04-24T17:33:28.312Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lettering artist Tyrsa is bringing fresh perspectives to typography]]></title>
+        <id>https://www.itsnicethat.com/articles/alexis-taieb-discover-graphic-design-240423</id>
+        <link href="https://www.itsnicethat.com/articles/alexis-taieb-discover-graphic-design-240423"/>
+        <updated>2023-04-24T17:33:28.312Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are you a creative working in the hospitality industry? Beavertown wants to hear from you]]></title>
         <id>https://www.itsnicethat.com/articles/beavertown-brewery-creatives-uptapped-creative-industry-sponsored-content-food-drink-210423</id>
         <link href="https://www.itsnicethat.com/articles/beavertown-brewery-creatives-uptapped-creative-industry-sponsored-content-food-drink-210423"/>
         <updated>2023-04-21T17:33:38.775Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/beavertown-brewery-creatives-uptapped-creative-industry-sponsored-content-food-drink-210423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:56.266666666666666%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#67cde3;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/beavertown-brewery-creatives-uptapped-creative-industry-sponsored-content-food-drink-210423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Are you a creative working in the hospitality industry? Beavertown wants to hear from you</span></h3><div class="h6 sans mt3 dove-grey first-cap">3 days ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Filip Custic explores the intimate dynamic between tech and our bodies]]></title>
         <id>https://www.itsnicethat.com/articles/filip-custic-human-product-project-photography-200423</id>
         <link href="https://www.itsnicethat.com/articles/filip-custic-human-product-project-photography-200423"/>
         <updated>2023-04-20T17:33:04.892Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/filip-custic-human-product-project-photography-200423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:114.08199643493762%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#735234;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/filip-custic-human-product-project-photography-200423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Filip Custic explores the intimate dynamic between tech and our bodies</span></h3><div class="h6 sans mt3 dove-grey first-cap">4 days ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How do we slow down time? Effie Pappa's stop motion film has some answers]]></title>
@@ -38,7 +54,7 @@
         <id>https://www.itsnicethat.com/articles/kilotype-graphic-design-sponsored-content-190423</id>
         <link href="https://www.itsnicethat.com/articles/kilotype-graphic-design-sponsored-content-190423"/>
         <updated>2023-04-19T17:33:25.351Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/kilotype-graphic-design-sponsored-content-190423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/kilotype-sponcon-itsnicethat-13.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/kilotype-graphic-design-sponsored-content-190423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Kilotype on variable fonts, accessibility and establishing an independent creative practice</span></h3><div class="h6 sans mt3 dove-grey first-cap">5 days ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/kilotype-graphic-design-sponsored-content-190423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/kilotype-graphic-design-sponsored-content-190423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Kilotype on variable fonts, accessibility and establishing an independent creative practice</span></h3><div class="h6 sans mt3 dove-grey first-cap">5 days ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inside Eric Hart Jr.’s intimate portrayal of Black queer experience]]></title>
@@ -123,26 +139,5 @@
         <link href="https://www.itsnicethat.com/articles/stacy-leigh-escape-to-b-roll-project-art-120423"/>
         <updated>2023-04-12T17:33:02.569Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/stacy-leigh-escape-to-b-roll-project-art-120423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:112.64080100125156%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#416264;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/stacy-leigh-escape-to-b-roll-project-art-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Sunset skies and luscious lawns: Artist Stacy Leigh paints herself a dream reality</span></h3><div class="h6 sans mt3 dove-grey first-cap">12 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenging the female radical characters of Chinese with artist Zoe Cui]]></title>
-        <id>https://www.itsnicethat.com/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423</id>
-        <link href="https://www.itsnicethat.com/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"/>
-        <updated>2023-04-12T17:33:02.573Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoe-cui-women-in-chinese-characters-project-graphic-design-120423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Challenging the female radical characters of Chinese with artist Zoe Cui</span></h3><div class="h6 sans mt3 dove-grey first-cap">12 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raman Djafari creates a frenzied dystopia for Ashnikko’s latest music video]]></title>
-        <id>https://www.itsnicethat.com/articles/raman-djafari-ashnikko-worms-project-film-110423</id>
-        <link href="https://www.itsnicethat.com/articles/raman-djafari-ashnikko-worms-project-film-110423"/>
-        <updated>2023-04-11T17:33:46.917Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/raman-djafari-ashnikko-worms-project-film-110423"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:56.25%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#24100c;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/raman-djafari-ashnikko-worms-project-film-110423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Raman Djafari creates a frenzied dystopia for Ashnikko’s latest music video</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating Macau's design scene with studio Untitled Macao]]></title>
-        <id>https://www.itsnicethat.com/articles/untitled-macao-discover-graphic-design-110423</id>
-        <link href="https://www.itsnicethat.com/articles/untitled-macao-discover-graphic-design-110423"/>
-        <updated>2023-04-11T17:33:46.918Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/untitled-macao-discover-graphic-design-110423"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/untitled-macao-discover-graphic-design-110423"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Celebrating Macau's design scene with studio Untitled Macao</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
     </entry>
 </feed>
