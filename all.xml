@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T05:33:18.399Z</updated>
+    <updated>2023-07-26T17:33:17.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Through still life photography, Minh Ngọc Nguyễn examines South-East Asian stereotypes (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/minh-ngoc-nguyen-photography-discover-260723</id>
+        <link href="https://www.itsnicethat.com/articles/minh-ngoc-nguyen-photography-discover-260723"/>
+        <updated>2023-07-26T17:33:16.451Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/minh-ngoc-nguyen-photography-discover-260723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:134.58950201884252%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#19191d;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/minh-ngoc-nguyen-photography-discover-260723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Through still life photography, Minh Ngọc Nguyễn examines South-East Asian stereotypes</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Dimitroff’s warm and earthy palette makes for paintings that evoke memories (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/elizabeth-dimitroff-art-discover-260723</id>
+        <link href="https://www.itsnicethat.com/articles/elizabeth-dimitroff-art-discover-260723"/>
+        <updated>2023-07-26T17:33:16.451Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/elizabeth-dimitroff-art-discover-260723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:68.8%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#b9bdb6;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/elizabeth-dimitroff-art-discover-260723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Elizabeth Dimitroff’s warm and earthy palette makes for paintings that evoke memories</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dishoom collaborates with illustrator Manjit Thapp on T-shirts memorialising iconic Indian women (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723</id>
         <link href="https://www.itsnicethat.com/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"/>
         <updated>2023-07-25T17:33:13.712Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#cbb1a0;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Dishoom collaborates with illustrator Manjit Thapp on T-shirts memorialising iconic Indian women</span></h3><div class="h6 sans mt3 dove-grey first-cap">19 hours ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#cbb1a0;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Dishoom collaborates with illustrator Manjit Thapp on T-shirts memorialising iconic Indian women</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atypical’s Chelsea Flower Show font intertwines typography and botany (It's Nice That)]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/carlos-miranda-illustration-discover-170723"/>
         <updated>2023-07-17T17:34:17.650Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/carlos-miranda-illustration-discover-170723"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/carlos-miranda-illustration-discover-170723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">From viruses to Bitcoin, Carlos Miranda’s playful animations are a sign of the times</span></h3><div class="h6 sans mt3 dove-grey first-cap">9 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramie Ahmed on documenting his Black trans and queer chosen family in New York City (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/ramie-ahmed-photography-discover-130723</id>
-        <link href="https://www.itsnicethat.com/articles/ramie-ahmed-photography-discover-130723"/>
-        <updated>2023-07-13T17:34:02.400Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/ramie-ahmed-photography-discover-130723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:81.43333333333334%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#10180a;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/ramie-ahmed-photography-discover-130723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Ramie Ahmed on documenting his Black trans and queer chosen family in New York City</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank you for the music: Henry Miller paints his favourite records, from Abba to Lionel Richie (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/henry-miller-art-project-130723</id>
-        <link href="https://www.itsnicethat.com/articles/henry-miller-art-project-130723"/>
-        <updated>2023-07-13T17:34:02.409Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/henry-miller-art-project-130723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:95.34673593855885%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fae8e1;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/henry-miller-art-project-130723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Thank you for the music: Henry Miller paints his favourite records, from Abba to Lionel Richie</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
     </entry>
 </feed>
