@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-07-27T05:33:25.452Z</updated>
+    <updated>2023-07-27T17:32:51.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[New exhibition sheds light on Korea’s most exciting artists and galleries]]></title>
+        <id>https://www.itsnicethat.com/articles/korean-artist-management-service-dialogue-mind-map-2023-event-sponsored-content-270723</id>
+        <link href="https://www.itsnicethat.com/articles/korean-artist-management-service-dialogue-mind-map-2023-event-sponsored-content-270723"/>
+        <updated>2023-07-27T17:32:50.336Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafis Nusantara uses the nostalgia of crackers to tell stories of Indonesian culture and design]]></title>
+        <id>https://www.itsnicethat.com/articles/grafis-nusantara-kerupuk-graphic-design-publication-project-270723</id>
+        <link href="https://www.itsnicethat.com/articles/grafis-nusantara-kerupuk-graphic-design-publication-project-270723"/>
+        <updated>2023-07-27T17:32:50.290Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/grafis-nusantara-kerupuk-graphic-design-publication-project-270723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:71.55049786628734%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f3e943;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/grafis-nusantara-kerupuk-graphic-design-publication-project-270723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Grafis Nusantara uses the nostalgia of crackers to tell stories of Indonesian culture and design</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andras Ladocsi captures the “intensity and resilience of the human spirit” in his up-close photography]]></title>
+        <id>https://www.itsnicethat.com/articles/andras-ladocsi-photography-discover-270723</id>
+        <link href="https://www.itsnicethat.com/articles/andras-ladocsi-photography-discover-270723"/>
+        <updated>2023-07-27T17:32:50.301Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/andras-ladocsi-photography-discover-270723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:122.42857142857142%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#61939d;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/andras-ladocsi-photography-discover-270723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Andras Ladocsi captures the “intensity and resilience of the human spirit” in his up-close photography</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Through still life photography, Minh Ngọc Nguyễn examines South-East Asian stereotypes]]></title>
         <id>https://www.itsnicethat.com/articles/minh-ngoc-nguyen-photography-discover-260723</id>
@@ -123,26 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/if-you-could-170723"/>
         <updated>2023-07-17T17:34:17.641Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/if-you-could-170723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:150%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fadbcb;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/if-you-could-170723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Explore latest creative opportunities at Together, DixonBaxi and more</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In her poetic animations, Sakshi Jain welcomes mistakes rather than rubbing them out]]></title>
-        <id>https://www.itsnicethat.com/articles/sakshi-jain-animation-illustration-discover-170723</id>
-        <link href="https://www.itsnicethat.com/articles/sakshi-jain-animation-illustration-discover-170723"/>
-        <updated>2023-07-17T17:34:17.642Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/sakshi-jain-animation-illustration-discover-170723"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/sakshi-jain-animation-illustration-discover-170723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">In her poetic animations, Sakshi Jain welcomes mistakes rather than rubbing them out</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer brings a new air of fun and sustainability to Earth Rated’s dog products]]></title>
-        <id>https://www.itsnicethat.com/articles/layer-earth-rated-graphic-design-project-170723</id>
-        <link href="https://www.itsnicethat.com/articles/layer-earth-rated-graphic-design-project-170723"/>
-        <updated>2023-07-17T17:34:17.648Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/layer-earth-rated-graphic-design-project-170723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#27412f;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/layer-earth-rated-graphic-design-project-170723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Layer brings a new air of fun and sustainability to Earth Rated’s dog products</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From viruses to Bitcoin, Carlos Miranda’s playful animations are a sign of the times]]></title>
-        <id>https://www.itsnicethat.com/articles/carlos-miranda-illustration-discover-170723</id>
-        <link href="https://www.itsnicethat.com/articles/carlos-miranda-illustration-discover-170723"/>
-        <updated>2023-07-17T17:34:17.650Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/carlos-miranda-illustration-discover-170723"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/carlos-miranda-illustration-discover-170723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">From viruses to Bitcoin, Carlos Miranda’s playful animations are a sign of the times</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
     </entry>
 </feed>
