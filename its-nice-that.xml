@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-08-08T05:33:07.344Z</updated>
+    <updated>2023-08-08T17:33:05.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Joe Lycett, Yonk and Minute Shorts: Tickets now available for September’s Nicer Tuesdays!]]></title>
+        <id>https://www.itsnicethat.com/articles/nicer-tuesdays-september-launch-080823</id>
+        <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-september-launch-080823"/>
+        <updated>2023-08-08T17:33:04.204Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-september-launch-080823"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/List___Launch_NT23_Sept_2.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-september-launch-080823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Joe Lycett, Yonk and Minute Shorts: Tickets now available for September’s Nicer Tuesdays!</span></h3><div class="h6 sans mt3 dove-grey first-cap">7 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googly eyes, goats and games: Step into Xingshan He’s incredible world of interactive design]]></title>
+        <id>https://www.itsnicethat.com/articles/xingshan-he-graphic-design-discover-080823</id>
+        <link href="https://www.itsnicethat.com/articles/xingshan-he-graphic-design-discover-080823"/>
+        <updated>2023-08-08T17:33:04.204Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/xingshan-he-graphic-design-discover-080823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:141.43333333333334%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#978c88;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/xingshan-he-graphic-design-discover-080823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Googly eyes, goats and games: Step into Xingshan He’s incredible world of interactive design</span></h3><div class="h6 sans mt3 dove-grey first-cap">8 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Francesco Saverio Tani’s photographs stretch the aesthetics of humanity]]></title>
         <id>https://www.itsnicethat.com/articles/francesco-saverio-tani-photography-070823</id>
         <link href="https://www.itsnicethat.com/articles/francesco-saverio-tani-photography-070823"/>
         <updated>2023-08-07T17:33:42.207Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/francesco-saverio-tani-photography-070823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:70.7%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#afbcc2;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/francesco-saverio-tani-photography-070823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Francesco Saverio Tani’s photographs stretch the aesthetics of humanity</span></h3><div class="h6 sans mt3 dove-grey first-cap">21 hours ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/francesco-saverio-tani-photography-070823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:70.7%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#afbcc2;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/francesco-saverio-tani-photography-070823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Francesco Saverio Tani’s photographs stretch the aesthetics of humanity</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meet Sanchit Sawaria, the “dedicated generalist” with a love of lettering]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.itsnicethat.com/articles/minh-ngoc-nguyen-photography-discover-260723"/>
         <updated>2023-07-26T17:33:16.451Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/minh-ngoc-nguyen-photography-discover-260723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:134.58950201884252%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#19191d;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/minh-ngoc-nguyen-photography-discover-260723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Through still life photography, Minh Ngọc Nguyễn examines South-East Asian stereotypes</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Dimitroff’s warm and earthy palette makes for paintings that evoke memories]]></title>
-        <id>https://www.itsnicethat.com/articles/elizabeth-dimitroff-art-discover-260723</id>
-        <link href="https://www.itsnicethat.com/articles/elizabeth-dimitroff-art-discover-260723"/>
-        <updated>2023-07-26T17:33:16.451Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/elizabeth-dimitroff-art-discover-260723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:68.8%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#b9bdb6;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/elizabeth-dimitroff-art-discover-260723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Elizabeth Dimitroff’s warm and earthy palette makes for paintings that evoke memories</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dishoom collaborates with illustrator Manjit Thapp on T-shirts memorialising iconic Indian women]]></title>
-        <id>https://www.itsnicethat.com/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723</id>
-        <link href="https://www.itsnicethat.com/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"/>
-        <updated>2023-07-25T17:33:13.712Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#cbb1a0;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/dishoom-manjit-thapp-the-trailblazers-illustration-sponsored-content-250723"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Dishoom collaborates with illustrator Manjit Thapp on T-shirts memorialising iconic Indian women</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
     </entry>
 </feed>
