@@ -2,8 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-22T05:33:42.487Z</updated>
+    <updated>2023-08-22T17:33:25.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Robin Cédric Kiesel on embracing the power of ‘disturbance’ in typography (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823</id>
+        <link href="https://www.itsnicethat.com/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"/>
+        <updated>2023-08-22T17:33:24.374Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/ezgif.com-gif-to-mp4_4_NMkhO7J.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Robin Cédric Kiesel on embracing the power of ‘disturbance’ in typography</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Cole captures the festivity, mundanity and characters of London (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/emmanuel-cole-bearing-witness-project-220823</id>
+        <link href="https://www.itsnicethat.com/articles/emmanuel-cole-bearing-witness-project-220823"/>
+        <updated>2023-08-22T17:33:24.426Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohammed Z. Rahman dreams up a magical future with his “carnivalesque and grave" paintings (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/mohammed-z-rahman-art-discover-220823</id>
+        <link href="https://www.itsnicethat.com/articles/mohammed-z-rahman-art-discover-220823"/>
+        <updated>2023-08-22T17:33:24.437Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Davy Denduyver on his “no nonsense” typographic branding for Onslow restaurant (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/davy-denduyver-onslow-graphic-design-project-210823</id>
@@ -16,7 +35,6 @@
         <id>https://www.itsnicethat.com/articles/uu-tree-view-from-my-terrace-illustration-project-210823</id>
         <link href="https://www.itsnicethat.com/articles/uu-tree-view-from-my-terrace-illustration-project-210823"/>
         <updated>2023-08-21T17:33:45.483Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/uu-tree-view-from-my-terrace-illustration-project-210823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:141.44271570014143%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#ac775b;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/uu-tree-view-from-my-terrace-illustration-project-210823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">iPad illustrator UU focuses on the “joy” of drawing rather than the final result</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[In northern India, Bharat Sikka photographs the Khasi people’s deep understanding of nature (It's Nice That)]]></title>
@@ -122,26 +140,5 @@
         <link href="https://www.itsnicethat.com/articles/nathaniel-bailey-parish-walls-photography-project-090823"/>
         <updated>2023-08-09T17:33:00.925Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nathaniel-bailey-parish-walls-photography-project-090823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:128.87438825448615%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#dcd5d3;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nathaniel-bailey-parish-walls-photography-project-090823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">From the darkroom to the light: Nathaniel Bailey on his ongoing documentation of Jamaica’s parishes</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harriet Yakub’s alphabetical postcards are an A to Z of modern life (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/harriet-yakub-makewatch-illustration-project-090823</id>
-        <link href="https://www.itsnicethat.com/articles/harriet-yakub-makewatch-illustration-project-090823"/>
-        <updated>2023-08-09T17:33:00.926Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/harriet-yakub-makewatch-illustration-project-090823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:71.03680538850132%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#92684c;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/harriet-yakub-makewatch-illustration-project-090823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Harriet Yakub’s alphabetical postcards are an A to Z of modern life</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Lycett, Yonk and Minute Shorts: Tickets now available for September’s Nicer Tuesdays! (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/nicer-tuesdays-september-launch-080823</id>
-        <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-september-launch-080823"/>
-        <updated>2023-08-08T17:33:04.204Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-september-launch-080823"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-september-launch-080823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Joe Lycett, Yonk and Minute Shorts: Tickets now available for September’s Nicer Tuesdays!</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googly eyes, goats and games: Step into Xingshan He’s incredible world of interactive design (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/xingshan-he-graphic-design-discover-080823</id>
-        <link href="https://www.itsnicethat.com/articles/xingshan-he-graphic-design-discover-080823"/>
-        <updated>2023-08-08T17:33:04.204Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/xingshan-he-graphic-design-discover-080823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:141.43333333333334%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#978c88;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/xingshan-he-graphic-design-discover-080823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Googly eyes, goats and games: Step into Xingshan He’s incredible world of interactive design</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
     </entry>
 </feed>
