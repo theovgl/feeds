@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-05T05:33:14.456Z</updated>
+    <updated>2023-09-05T17:33:41.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[How pixel art of the early web inspires John Provencher’s design work (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/john-provencher-graphic-design-discover-050923</id>
+        <link href="https://www.itsnicethat.com/articles/john-provencher-graphic-design-discover-050923"/>
+        <updated>2023-09-05T17:33:39.776Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/john-provencher-graphic-design-discover-050923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/john_provencher.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/john-provencher-graphic-design-discover-050923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">How pixel art of the early web inspires John Provencher’s design work</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dominique Falcone’s handcrafted designs are inspired by queer punk zines and 70s disco albums (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/dominique-falcone-graphic-design-discover-050923</id>
+        <link href="https://www.itsnicethat.com/articles/dominique-falcone-graphic-design-discover-050923"/>
+        <updated>2023-09-05T17:33:39.778Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/dominique-falcone-graphic-design-discover-050923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#040404;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/dominique-falcone-graphic-design-discover-050923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Dominique Falcone’s handcrafted designs are inspired by queer punk zines and 70s disco albums</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I wanted to mythologise them”: Tom Ringsby captures a band of fire breathing acrobats (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/tom-ringsby-men-on-fire-photography-project-050923</id>
+        <link href="https://www.itsnicethat.com/articles/tom-ringsby-men-on-fire-photography-project-050923"/>
+        <updated>2023-09-05T17:33:39.792Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/tom-ringsby-men-on-fire-photography-project-050923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:79.86666666666666%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#b1a6a9;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/tom-ringsby-men-on-fire-photography-project-050923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">“I wanted to mythologise them”: Tom Ringsby captures a band of fire breathing acrobats</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What can we learn from fungi? This beautifully illustrated book explores (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/yasmine-ostendorf-rodriguez-embrace-the-fungal-ethos-illustration-project-040923</id>
@@ -122,26 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/lia-kim-graphic-design-discover-230823"/>
         <updated>2023-08-23T17:32:59.746Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/lia-kim-graphic-design-discover-230823"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/lia-kim-graphic-design-discover-230823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Meet Lia Kim, the creative using design to change the world for the better</span></h3><div class="h6 sans mt3 dove-grey first-cap">13 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robin Cédric Kiesel on embracing the power of ‘disturbance’ in typography (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823</id>
-        <link href="https://www.itsnicethat.com/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"/>
-        <updated>2023-08-22T17:33:24.374Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/robin-cedric-kiesel-stoer-project-graphic-design-220823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Robin Cédric Kiesel on embracing the power of ‘disturbance’ in typography</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emmanuel Cole captures the festivity, mundanity and characters of London (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/emmanuel-cole-bearing-witness-project-220823</id>
-        <link href="https://www.itsnicethat.com/articles/emmanuel-cole-bearing-witness-project-220823"/>
-        <updated>2023-08-22T17:33:24.426Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/emmanuel-cole-bearing-witness-project-220823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:150%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#e7ded5;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/emmanuel-cole-bearing-witness-project-220823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Emmanuel Cole captures the festivity, mundanity and characters of London</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohammed Z. Rahman dreams up a magical future with his “carnivalesque and grave" paintings (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/mohammed-z-rahman-art-discover-220823</id>
-        <link href="https://www.itsnicethat.com/articles/mohammed-z-rahman-art-discover-220823"/>
-        <updated>2023-08-22T17:33:24.437Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/mohammed-z-rahman-art-discover-220823"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:126.06139777922927%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#4e4839;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/mohammed-z-rahman-art-discover-220823"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Mohammed Z. Rahman dreams up a magical future with his “carnivalesque and grave" paintings</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
     </entry>
 </feed>
