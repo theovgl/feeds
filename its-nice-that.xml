@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-09-21T05:33:55.694Z</updated>
+    <updated>2023-09-21T17:33:08.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[What’s the connection between our clothes and our intimate spaces? To Be Adorned investigates]]></title>
+        <id>https://www.itsnicethat.com/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923</id>
+        <link href="https://www.itsnicethat.com/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"/>
+        <updated>2023-09-21T17:33:07.827Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:150%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#dad4d9;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">What’s the connection between our clothes and our intimate spaces? To Be Adorned investigates</span></h3><div class="h6 sans mt3 dove-grey first-cap">9 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blanca Espinoso on embracing the everyday in her art direction practice]]></title>
+        <id>https://www.itsnicethat.com/articles/blanca-espinoso-art-direction-discover-210923</id>
+        <link href="https://www.itsnicethat.com/articles/blanca-espinoso-art-direction-discover-210923"/>
+        <updated>2023-09-21T17:33:07.827Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/blanca-espinoso-art-direction-discover-210923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:139.34563758389262%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fad203;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/blanca-espinoso-art-direction-discover-210923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Blanca Espinoso on embracing the everyday in her art direction practice</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hot Type designs a variable sans serif type family for Sofascore, inspired by raw data]]></title>
         <id>https://www.itsnicethat.com/articles/hot-type-sofascore-graphic-design-sponsored-content-200923</id>
         <link href="https://www.itsnicethat.com/articles/hot-type-sofascore-graphic-design-sponsored-content-200923"/>
         <updated>2023-09-20T17:33:36.263Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/hot-type-sofascore-graphic-design-sponsored-content-200923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/Hot-Type-Sofascore-Logotype.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/hot-type-sofascore-graphic-design-sponsored-content-200923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Hot Type designs a variable sans serif type family for Sofascore, inspired by raw data</span></h3><div class="h6 sans mt3 dove-grey first-cap">19 hours ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/hot-type-sofascore-graphic-design-sponsored-content-200923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"><video autoplay="" class="width-100" loop="" playsinline="" src="https://media.itsnicethat.com/documents/Hot-Type-Sofascore-Logotype.mp4"></video></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/hot-type-sofascore-graphic-design-sponsored-content-200923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Hot Type designs a variable sans serif type family for Sofascore, inspired by raw data</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meet Sob Story, the airbrush artist tapping in to Los Angeles’ underground rave culture]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.itsnicethat.com/articles/alice-isaac-mercury-prize-art-animation-project-070923"/>
         <updated>2023-09-07T17:32:59.233Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/alice-isaac-mercury-prize-art-animation-project-070923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/alice-isaac-mercury-prize-art-animation-project-070923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Alice Isaac creates animated collages showcasing this year’s Mercury Prize shortlisted artists</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Cartel Cubano: how Cuba’s revolution-era political posters transformed film poster design forever]]></title>
-        <id>https://www.itsnicethat.com/articles/adrienne-hall-el-cartel-cubano-graphic-design-project-070923</id>
-        <link href="https://www.itsnicethat.com/articles/adrienne-hall-el-cartel-cubano-graphic-design-project-070923"/>
-        <updated>2023-09-07T17:32:59.241Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/adrienne-hall-el-cartel-cubano-graphic-design-project-070923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:159.42028985507247%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#cdcc79;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/adrienne-hall-el-cartel-cubano-graphic-design-project-070923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">El Cartel Cubano: how Cuba’s revolution-era political posters transformed film poster design forever</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conor Murgatroyd’s obsession with history fuels his colourful and allegorical paintings]]></title>
-        <id>https://www.itsnicethat.com/articles/conor-murgatroyd-art-060923</id>
-        <link href="https://www.itsnicethat.com/articles/conor-murgatroyd-art-060923"/>
-        <updated>2023-09-06T17:33:01.639Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/conor-murgatroyd-art-060923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:121.22830440587451%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#44362f;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/conor-murgatroyd-art-060923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Conor Murgatroyd’s obsession with history fuels his colourful and allegorical paintings</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
     </entry>
 </feed>
