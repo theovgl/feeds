@@ -2,28 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T05:33:48.925Z</updated>
+    <updated>2023-10-04T17:33:12.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[In Aistė Stancikaitė’s paintings, the ordinary and taboo are equally adorned (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/aiste-stancikaite-art-project-041023</id>
+        <link href="https://www.itsnicethat.com/articles/aiste-stancikaite-art-project-041023"/>
+        <updated>2023-10-04T17:33:11.418Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Words of Type opens up the multicultural typographic landscape for the better (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/words-of-type-graphic-design-project-041023</id>
+        <link href="https://www.itsnicethat.com/articles/words-of-type-graphic-design-project-041023"/>
+        <updated>2023-10-04T17:33:11.422Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the theme of water, Porto Design Biennale reveals a varied line-up (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/porto-design-biennale-2023-final-programme-event-sponsored-content-031023</id>
         <link href="https://www.itsnicethat.com/articles/porto-design-biennale-2023-final-programme-event-sponsored-content-031023"/>
         <updated>2023-10-03T17:33:39.499Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/porto-design-biennale-2023-final-programme-event-sponsored-content-031023"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:87.42222222222222%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#c3c3c2;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/porto-design-biennale-2023-final-programme-event-sponsored-content-031023"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Exploring the theme of water, Porto Design Biennale reveals a varied line-up</span></h3><div class="h6 sans mt3 dove-grey first-cap">19 hours ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yuki Uebo’s busy and dynamic illustrations are inspired by her love of crowds (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/yuki-uebo-illustration-discover-031023</id>
         <link href="https://www.itsnicethat.com/articles/yuki-uebo-illustration-discover-031023"/>
         <updated>2023-10-03T17:33:39.508Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/yuki-uebo-illustration-discover-031023"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:70.7%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#d79184;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/yuki-uebo-illustration-discover-031023"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Yuki Uebo’s busy and dynamic illustrations are inspired by her love of crowds</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Simon Elliott illustrates the life of Hockney across decades and styles (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/simon-elliott-hockney-a-graphic-life-021023</id>
         <link href="https://www.itsnicethat.com/articles/simon-elliott-hockney-a-graphic-life-021023"/>
         <updated>2023-10-02T17:33:38.666Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/simon-elliott-hockney-a-graphic-life-021023"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:133.2855093256815%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#e6dedc;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/simon-elliott-hockney-a-graphic-life-021023"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Simon Elliott illustrates the life of Hockney across decades and styles</span></h3><div class="h6 sans mt3 dove-grey first-cap">2 days ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[After Hours’ identity deconstructs and reassembles “scattered cultural forms” (It's Nice That)]]></title>
@@ -128,20 +137,6 @@
         <id>https://www.itsnicethat.com/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923</id>
         <link href="https://www.itsnicethat.com/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923"/>
         <updated>2023-09-19T17:33:06.122Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Playground Paris on the joys of designing for the Louis Vuitton Foundation’s family festival</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollie Adegboye’s tender series captures Black fathers and their children (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/ollie-adegboye-baba-father-photography-project-190923</id>
-        <link href="https://www.itsnicethat.com/articles/ollie-adegboye-baba-father-photography-project-190923"/>
-        <updated>2023-09-19T17:33:06.143Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/ollie-adegboye-baba-father-photography-project-190923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:125%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#dfdce0;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/ollie-adegboye-baba-father-photography-project-190923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Ollie Adegboye’s tender series captures Black fathers and their children</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pol-Edouard Flores illustrates retro characters and games with his spontaneous approach to drawing (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/pol-edouard-illustration-project-190923</id>
-        <link href="https://www.itsnicethat.com/articles/pol-edouard-illustration-project-190923"/>
-        <updated>2023-09-19T17:33:06.143Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/pol-edouard-illustration-project-190923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:125%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#b66441;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/pol-edouard-illustration-project-190923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Pol-Edouard Flores illustrates retro characters and games with his spontaneous approach to drawing</span></h3><div class="h6 sans mt3 dove-grey first-cap">15 days ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/valentin-adam-playground-paris-louis-vuitton-foundation-family-festival-graphic-design-project-190923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Playground Paris on the joys of designing for the Louis Vuitton Foundation’s family festival</span></h3><div class="h6 sans mt3 dove-grey first-cap">19 September 2023</div></a>]]></content>
     </entry>
 </feed>
