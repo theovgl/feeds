@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2023-10-09T05:33:30.780Z</updated>
+    <updated>2023-10-09T17:33:31.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Studio Lowrie’s identity for Rally festival is unpolished and DIY-inspired]]></title>
+        <id>https://www.itsnicethat.com/articles/studio-lowrie-rally-graphic-design-project-091023</id>
+        <link href="https://www.itsnicethat.com/articles/studio-lowrie-rally-graphic-design-project-091023"/>
+        <updated>2023-10-09T17:33:30.575Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/studio-lowrie-rally-graphic-design-project-091023"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:125%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#ccb6be;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/studio-lowrie-rally-graphic-design-project-091023"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Studio Lowrie’s identity for Rally festival is unpolished and DIY-inspired</span></h3><div class="h6 sans mt3 dove-grey first-cap">8 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoey Kim personifies cats in her blurred and vivid illustrations]]></title>
+        <id>https://www.itsnicethat.com/articles/zoey-kim-illustration-discover-091023</id>
+        <link href="https://www.itsnicethat.com/articles/zoey-kim-illustration-discover-091023"/>
+        <updated>2023-10-09T17:33:30.576Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoey-kim-illustration-discover-091023"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:140.818759936407%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#d2bc33;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/zoey-kim-illustration-discover-091023"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Zoey Kim personifies cats in her blurred and vivid illustrations</span></h3><div class="h6 sans mt3 dove-grey first-cap">8 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBC Creative teams up with footie artists, from Corbin Shaw to Diana Al Shammari]]></title>
         <id>https://www.itsnicethat.com/articles/bbc-creative-this-game-belongs-to-all-of-us-film-project-061023</id>
@@ -130,19 +144,5 @@
         <link href="https://www.itsnicethat.com/articles/pentawards-festival-2023-event-sponsored-content-250923"/>
         <updated>2023-09-25T17:33:11.830Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/pentawards-festival-2023-event-sponsored-content-250923"><div class="relative overflow-hidden"><div class="relative font-0 line-height-0"></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/pentawards-festival-2023-event-sponsored-content-250923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Pentawards Festival returns with a programme that addresses some of the industry’s biggest challenges</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celine Ka Wing Lau’s absurd scenes are sure to put a smile on your face]]></title>
-        <id>https://www.itsnicethat.com/articles/celine-ka-wing-lau-illustration-discover-250923</id>
-        <link href="https://www.itsnicethat.com/articles/celine-ka-wing-lau-illustration-discover-250923"/>
-        <updated>2023-09-25T17:33:11.845Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/celine-ka-wing-lau-illustration-discover-250923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#fbebe5;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/celine-ka-wing-lau-illustration-discover-250923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Celine Ka Wing Lau’s absurd scenes are sure to put a smile on your face</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the connection between our clothes and our intimate spaces? To Be Adorned investigates]]></title>
-        <id>https://www.itsnicethat.com/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923</id>
-        <link href="https://www.itsnicethat.com/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"/>
-        <updated>2023-09-21T17:33:07.827Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:150%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#dad4d9;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/anna-rose-mcchesney-to-be-adorned-photography-project-210923"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">What’s the connection between our clothes and our intimate spaces? To Be Adorned investigates</span></h3><div class="h6 sans mt3 dove-grey first-cap">21 September 2023</div></a>]]></content>
     </entry>
 </feed>
