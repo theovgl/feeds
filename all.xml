@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-16T05:39:11.824Z</updated>
+    <updated>2024-09-16T17:38:43.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“Make it your mission to openly understand why this is happening” (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-160924</id>
+        <link href="https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-160924"/>
+        <updated>2024-09-16T17:38:42.503Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/creative-career-conundrums-if-you-could-jobs-advice-160924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#4b7afa;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/creative-career-conundrums-if-you-could-jobs-advice-160924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">“Make it your mission to openly understand why this is happening”</span></h3><div class="h6 sans mt3 dove-grey first-cap">4 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elizabeth Goodspeed on the power and perils of the mockup (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-mockups-graphic-design-120924</id>
@@ -136,12 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/pov-is-the-brand-namer-the-new-graphic-designer-creative-industry-insights-040924"/>
         <updated>2024-09-04T17:37:12.806Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/pov-is-the-brand-namer-the-new-graphic-designer-creative-industry-insights-040924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f3f3f3;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/pov-is-the-brand-namer-the-new-graphic-designer-creative-industry-insights-040924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">POV: Is the ‘brand namer’ the new graphic designer?</span></h3><div class="h6 sans mt3 dove-grey first-cap">12 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ottolenghi introduces playful cut-outs and joyful illustrated faces in a refresh on the brand’s classic identity (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/ottolenghi-rebrand-irving-and-co-studio-graft-graphic-design-project-040924</id>
-        <link href="https://www.itsnicethat.com/articles/ottolenghi-rebrand-irving-and-co-studio-graft-graphic-design-project-040924"/>
-        <updated>2024-09-04T17:37:12.807Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/ottolenghi-rebrand-irving-and-co-studio-graft-graphic-design-project-040924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:118.95604395604396%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#e9d8c6;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/ottolenghi-rebrand-irving-and-co-studio-graft-graphic-design-project-040924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Ottolenghi introduces playful cut-outs and joyful illustrated faces in a refresh on the brand’s classic identity</span></h3><div class="h6 sans mt3 dove-grey first-cap">12 days ago</div></a>]]></content>
     </entry>
 </feed>
