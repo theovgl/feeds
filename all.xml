@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theovgl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-03T05:38:28.055Z</updated>
+    <updated>2024-10-03T17:37:39.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Is more always better? Photographer Johel Pereira documents people’s skincare routines (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/johel-pereira-behind-the-mask-photography-project-031024</id>
+        <link href="https://www.itsnicethat.com/articles/johel-pereira-behind-the-mask-photography-project-031024"/>
+        <updated>2024-10-03T17:37:39.240Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/johel-pereira-behind-the-mask-photography-project-031024"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:124.97607655502392%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#070707;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/johel-pereira-behind-the-mask-photography-project-031024"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Is more always better? Photographer Johel Pereira documents people’s skincare routines</span></h3><div class="h6 sans mt3 dove-grey first-cap">3 hours ago</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nina Izycka’s inky catalogue of characters holds quiet messages for harmony with the natural world (It's Nice That)]]></title>
+        <id>https://www.itsnicethat.com/articles/nina-izycka-illustration-discover-031024</id>
+        <link href="https://www.itsnicethat.com/articles/nina-izycka-illustration-discover-031024"/>
+        <updated>2024-10-03T17:37:39.242Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nina-izycka-illustration-discover-031024"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:64.90419597380549%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#5493e2;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nina-izycka-illustration-discover-031024"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Nina Izycka’s inky catalogue of characters holds quiet messages for harmony with the natural world</span></h3><div class="h6 sans mt3 dove-grey first-cap">9 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[For graphic designer and activist Jérémie Wostyn (aka Kylab), poster design is a spontaneous and intuitive space (It's Nice That)]]></title>
         <id>https://www.itsnicethat.com/articles/jeremie-wostyn-kylab-graphic-design-discover-021024</id>
         <link href="https://www.itsnicethat.com/articles/jeremie-wostyn-kylab-graphic-design-discover-021024"/>
         <updated>2024-10-02T17:35:24.402Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/jeremie-wostyn-kylab-graphic-design-discover-021024"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:133.36155800169348%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#221f12;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/jeremie-wostyn-kylab-graphic-design-discover-021024"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">For graphic designer and activist Jérémie Wostyn (aka Kylab), poster design is a spontaneous and intuitive space</span></h3><div class="h6 sans mt3 dove-grey first-cap">20 hours ago</div></a>]]></content>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/jeremie-wostyn-kylab-graphic-design-discover-021024"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:133.36155800169348%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#221f12;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/jeremie-wostyn-kylab-graphic-design-discover-021024"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">For graphic designer and activist Jérémie Wostyn (aka Kylab), poster design is a spontaneous and intuitive space</span></h3><div class="h6 sans mt3 dove-grey first-cap">a day ago</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The View From Cairo: probing the rise of the “Made in Egypt” aesthetic movement (It's Nice That)]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-230924"/>
         <updated>2024-09-23T17:37:13.811Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/creative-career-conundrums-if-you-could-jobs-advice-230924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#e6dba1;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/creative-career-conundrums-if-you-could-jobs-advice-230924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">“Any experience is good experience at the beginning of your journey”</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Salt and Sister Studio, the sibling duo railing against boring branding and industry jargon (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/salt-and-sister-studio-graphic-design-discover-230924</id>
-        <link href="https://www.itsnicethat.com/articles/salt-and-sister-studio-graphic-design-discover-230924"/>
-        <updated>2024-09-23T17:37:13.812Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/salt-and-sister-studio-graphic-design-discover-230924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:66.66666666666666%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#221e19;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/salt-and-sister-studio-graphic-design-discover-230924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Meet Salt and Sister Studio, the sibling duo railing against boring branding and industry jargon</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Like squishy, tactile pixels”: Rosie Clements prints her photographs on bubble wrap (It's Nice That)]]></title>
-        <id>https://www.itsnicethat.com/articles/rosie-clements-pure-semblance-photography-project-230924</id>
-        <link href="https://www.itsnicethat.com/articles/rosie-clements-pure-semblance-photography-project-230924"/>
-        <updated>2024-09-23T17:37:13.815Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/rosie-clements-pure-semblance-photography-project-230924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:99.1%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#893b26;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/rosie-clements-pure-semblance-photography-project-230924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">“Like squishy, tactile pixels”: Rosie Clements prints her photographs on bubble wrap</span></h3><div class="h6 sans mt3 dove-grey first-cap">10 days ago</div></a>]]></content>
     </entry>
 </feed>
