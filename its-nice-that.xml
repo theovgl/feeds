@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsnicethat.com/articles</id>
     <title>It's Nice That</title>
-    <updated>2024-10-07T05:39:06.320Z</updated>
+    <updated>2024-10-07T17:36:37.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsnicethat.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Christoph Florin merges analogue and digital worlds through window views in browser windows]]></title>
+        <id>https://www.itsnicethat.com/articles/christoph-florin-window-views-art-project-071024</id>
+        <link href="https://www.itsnicethat.com/articles/christoph-florin-window-views-art-project-071024"/>
+        <updated>2024-10-07T17:36:36.841Z</updated>
+        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/christoph-florin-window-views-art-project-071024"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:135.06666666666666%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#dbd1e6;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/christoph-florin-window-views-art-project-071024"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">Christoph Florin merges analogue and digital worlds through window views in browser windows</span></h3><div class="h6 sans mt3 dove-grey first-cap">7 hours ago</div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POV: The illustrators aren’t alright]]></title>
         <id>https://www.itsnicethat.com/articles/pov-the-illustrators-arent-alright-insights-illustration-041024</id>
@@ -137,12 +144,5 @@
         <link href="https://www.itsnicethat.com/articles/pov-when-did-colour-palettes-become-content-insights-graphic-design-230924"/>
         <updated>2024-09-23T17:37:13.810Z</updated>
         <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/pov-when-did-colour-palettes-become-content-insights-graphic-design-230924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:100%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#f3f3f3;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/pov-when-did-colour-palettes-become-content-insights-graphic-design-230924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">POV: When did colour palettes become content?</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Flipping the sample”: Hassan Rahim digs into the ethos that underpins his practice]]></title>
-        <id>https://www.itsnicethat.com/articles/nicer-tuesdays-new-york-june-2024-hassan-rahim-230924</id>
-        <link href="https://www.itsnicethat.com/articles/nicer-tuesdays-new-york-june-2024-hassan-rahim-230924"/>
-        <updated>2024-09-23T17:37:13.810Z</updated>
-        <content type="html"><![CDATA[<a class="block link-reset font-0 pt4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-new-york-june-2024-hassan-rahim-230924"><div class="relative overflow-hidden"><div class="listing-item-image" style="height:0;overflow:hidden;padding-bottom:65.4696132596685%;position:relative;width:100%"><div style="bottom:0;left:0;position:absolute;right:0;top:0"><div style="background-color:#1e1716;height:100%;opacity:1;position:absolute;transition:opacity 2s;width:100%"></div></div></div></div></a><a class="block link-reset py4 px4 sm-px4 md-px3 lg-px4" href="/articles/nicer-tuesdays-new-york-june-2024-hassan-rahim-230924"><h3 class="sans m0" style="font-variation-settings:&quot;wght&quot; 30, &quot;stbl&quot; 100"><span class="listing-item-title">“Flipping the sample”: Hassan Rahim digs into the ethos that underpins his practice</span></h3><div class="h6 sans mt3 dove-grey first-cap">14 days ago</div></a>]]></content>
     </entry>
 </feed>
